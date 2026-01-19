@@ -6,6 +6,7 @@
 **Role:** Quality Assurance Engineer (Manual & Automation)  
 **Experience:** 5+ years  
 **Domain:** Fintech and Insurtech  
+**Linked in:** https://www.linkedin.com/in/johanna-estrelita-simatupang-33277394/ 
 
 I am a QA Engineer with strong experience in validating business logic, backend systems, and API workflows. I work across both manual and automation testing, with a focus on early defect detection, reducing regression risk, and supporting stable, high-quality releases throughout the SDLC.
 
