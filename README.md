@@ -28,6 +28,7 @@ I am a QA Engineer with strong experience in validating business logic, backend 
 - REST APIs  
 - Git and GitHub  
 - CI/CD (GitHub Actions – basic)
+- Selenium
 
 ### Domain Knowledge
 - Fintech systems  
